@@ -1,0 +1,22 @@
+{
+  "name": "real-dom",
+  "version": "1.0.0",
+  "description": "Building DOM and style sheet",
+  "main": "./dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DOM",
+    "real DOM",
+    "style sheet",
+    "css",
+    "build",
+    "DOM操作"
+  ],
+  "author": "zhou_hanlin",
+  "license": "MIT"
+}
