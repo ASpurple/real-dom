@@ -1,9 +1,16 @@
 {
-  "name": "real-dom",
+  "name": "zyc-real-dom",
   "version": "1.0.0",
   "description": "Building DOM and style sheet",
   "main": "./dist/index.js",
   "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ASpurple/real-dom.git"
+  },
   "scripts": {
     "dev": "tsc --watch",
     "build": "tsc",
